@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "SignAnimation",
+      "slots": [
+        {
+          "name": "animation",
+          "type": "LIST_OF_ANIMATIONS"
+        }
+      ]
+    },
+    {
+      "intent": "SignOn"
+    },
+    {
+      "intent": "SignOff"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
