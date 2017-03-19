@@ -4,9 +4,9 @@ An LED backlit sign with animations controlled by the Amazon Alexa Skills API an
 
 ## Demo!
 
-Here's a video of the sign at night, with me issuing commands to it via Alexa, like "Ask Hunter's Haven to make a rainbow", "Ask Hunter's Haven to make a fire", and "Ask Hunter's Haven to turn off".
-
-youtube here
+Here's a video of the sign at night, with me issuing commands to it via Alexa, like "Ask Hunter's Haven to make a rainbow", "Ask Hunter's Haven to make a fire", and "Ask Hunter's Haven to turn off":
+https://www.youtube.com/watch?v=lFCR2RMPZFw
+(It's hard to see the colors due to the brightness of the LEDS on the video, so please trust the colors are great!)
 
 ## The Hardware
 
